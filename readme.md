@@ -7,13 +7,17 @@ Fynn Huber
 ## Grob-Planung
 
 1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
-   Ich allen bisherigen Modulen bin ich mit meiner Leistung zufrieden. Jedoch könnte ich mehr Fokus auf M164 und M117 legen da diese gerade aktuell sind, da diese aber nicht
-   viel mit Coden an sich zu tuhen haben, und ich scho gerne etwas Programmieren würde, weis ich nicht ob ich meinen Fokus auf diese Module lege.
-3. Was hatten Sie sich am Ende von LP2 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
-   Am Ende der LP2 habe ich mir vorgenommen ein Game zu Coden. Ich würde dies gerne umsetzen in Form eines Unity Projektes, bin mir aber Zeitlich nicht sicher ob
-   diese ausreicht, weshalb ich mich für etwas anderes entscheide
-5. Was wäre ein geeignetes Projekt würd diese LP3?
-   Eine Art Geschicklichkeitsspiel beidem  man nicht an Hindernisse kommen darf, welche sich bewegen. Subway surfer in sehr minimalistist sozusagen.
+   Ich allen bisherigen Modulen bin ich mit meiner Leistung zufrieden. Jedoch könnte ich mehr Fokus auf M164 und M117 legen da diese gerade aktuell sind,
+   da diese aber nicht viel mit Coden an sich zu tuhen haben, und ich scho gerne etwas Programmieren würde,
+    weis ich nicht ob ich meinen Fokus auf diese Module lege.
+   
+2. Was hatten Sie sich am Ende von LP2 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
+   Am Ende der LP2 habe ich mir vorgenommen ein Game zu Coden. Ich würde dies gerne umsetzen in Form eines Unity Projektes,
+    bin mir aber Zeitlich nicht sicher ob diese ausreicht, weshalb ich mich für etwas anderes entscheide.
+   
+3. Was wäre ein geeignetes Projekt würd diese LP3?
+   Eine Art Geschicklichkeitsspiel beidem  man nicht an Hindernisse kommen darf, welche sich bewegen.
+   Subway surfer in sehr minimalistist sozusagen.
   ( Fals dies einfacher ist als gedacht will ich auch in einer Konsole eine Tic Tac Toe Spiel machen. )
 
 ## 9.1.2024
