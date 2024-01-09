@@ -16,27 +16,24 @@ Fynn Huber
     bin mir aber Zeitlich nicht sicher ob diese ausreicht, weshalb ich mich für etwas anderes entscheide.
    
 3. Was wäre ein geeignetes Projekt würd diese LP3?
-   Eine Art Geschicklichkeitsspiel beidem  man nicht an Hindernisse kommen darf, welche sich bewegen.
-   Subway surfer in sehr minimalistist sozusagen.
-  ( Falls dies einfacher ist als gedacht will ich auch noch in einer Konsole eine Tic Tac Toe Spiel machen. )
-
+  Reaktionszeitspiel mit mehreren Schwierigkeitsgraden
 ## 9.1.2024
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
 ## 16.1 und 23.1.2024
 
-- [ ] Start Menu Funktioniert
-- [ ] Auto lässt sich steuern
-- [ ] Position/ Game lässt sich reseten/restarten
-- [ ] Score anzeige umso länger man lebt.
+- [ ] Startmenu
+- [ ] Schwierigkeitsgrad auswahl
+- [ ] Einzelne Schwierigkeiten deffinieren
+- [ ] nochmal spielen möglich
 
 | estfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | -------------- | -------------------- | -------------- | -------------- | -------- |
 |  Startmenü             |Konsole                     |  Start = y              |    Game startet            |          |
-|  Auto Steuerung          |     Game gestratet                 |     W,A,D           |      Auto nach vorne,links,rechts          |          |
-| reset           |       In hinderniss gefahren               |     nochmal spielen = y           |  Game startet              |          |
-|Score            | Game gestartet      |  Zeit am leben  += Score       |     Score = X Zahl |      |
+|  Schwierigkeit auswahl        |     Konsole                 |     1,2,3,4           |      leicht oder Schwer          |          |
+|schwierigkeit deffinieren        |       Schwierigkeit ausgewählt             |    When schwierigkeit 2          |  Zeit zu ragieren = 0.5 Sek             |          |
+|Nochmal spielen            | Run beendet     |  Nochmal spielen = y       |     Game startet |      |
 
 ✍️ Heute am 16.1 habe ich... (50-100 Wörter)
 
@@ -44,17 +41,17 @@ Fynn Huber
 
 ## 23.1.2024
 
-- [ ] Hindernisse generieren
-- [ ] Hindernisse unendlich lange
-- [ ] Spiel bei berührung mit Hindernissen vorbei
-- [ ] Record Score wird gespeichert
+- [ ] erneute Schwierigkeitsauswahl
+- [ ] Reaktionszeit Messen
+- [ ] Overlay erstellen im Game 
+- [ ] Personel best Score
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| Hindernisse               |Erstellung der Hindernisse                       |     Game start           |   Hinderniss erscheint             |          |
-| Hindernisse unendlich            |  Game gestartet                |   Hindernisse entstehen             |  Game spielbar              |          |
-| Game Over               |  Auto berührt Hinderniss                    |  Auto berührt Hinderniss              |   Game Over             |          |
-|Personal best | Run vorbei | Score grösser als vorherig | new PB | |
+| erneute Schwierigkeitsauswahl               |Game erneut spielen                  |         Schwierigkeit = 4       | neue Schwierigkeit = 4            |          |
+| Reaktionszeit Messen        | Run vorbei                |  Zeitspanne Zeichen bis Tastendruck              | Reaktionszeit            |          |
+| Overlay              | Game gestartet                 |  Zeichen das man drücken muss          |   Drücken Erfolgrecih || Unerfolgreich            |          |
+|Personal best | Run vorbei |Reaktion kleiner als vorher | new PB | |
 
 ✍️ Heute am 23.1 habe ich... (50-100 Wörter)
 
