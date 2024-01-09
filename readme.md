@@ -18,7 +18,7 @@ Fynn Huber
 3. Was wäre ein geeignetes Projekt würd diese LP3?
    Eine Art Geschicklichkeitsspiel beidem  man nicht an Hindernisse kommen darf, welche sich bewegen.
    Subway surfer in sehr minimalistist sozusagen.
-  ( Fals dies einfacher ist als gedacht will ich auch in einer Konsole eine Tic Tac Toe Spiel machen. )
+  ( Falls dies einfacher ist als gedacht will ich auch noch in einer Konsole eine Tic Tac Toe Spiel machen. )
 
 ## 9.1.2024
 
@@ -26,13 +26,14 @@ Fynn Huber
 
 ## 16.1 und 23.1.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] Start Menu Funktioniert
+- [ ] Auto lässt sich steuern
+- [ ] Position/ Game lässt sich reseten/restarten
+- [ ] 
 
 | estfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | -------------- | -------------------- | -------------- | -------------- | -------- |
-| 1              |                      |                |                |          |
+|  Startmnu              |                      |                |                |          |
 | ...            |                      |                |                |          |
 | 4              |                      |                |                |          |
 
@@ -44,7 +45,7 @@ Fynn Huber
 
 - [ ] Fünftes AP
 - [ ] ...
-
+- [ ] ...
 - [ ] Achtes AP
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
