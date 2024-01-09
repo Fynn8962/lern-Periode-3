@@ -29,13 +29,14 @@ Fynn Huber
 - [ ] Start Menu Funktioniert
 - [ ] Auto lässt sich steuern
 - [ ] Position/ Game lässt sich reseten/restarten
-- [ ] 
+- [ ] Score anzeige umso länger man lebt.
 
 | estfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | -------------- | -------------------- | -------------- | -------------- | -------- |
-|  Startmnu              |                      |                |                |          |
-| ...            |                      |                |                |          |
-| 4              |                      |                |                |          |
+|  Startmenü             |Konsole                     |  Start = y              |    Game startet            |          |
+|  Auto Steuerung          |     Game gestratet                 |     W,A,D           |      Auto nach vorne,links,rechts          |          |
+| reset           |       In hinderniss gefahren               |     nochmal spielen = y           |  Game startet              |          |
+|Score            | Game gestartet      | Game gestartet       | Zeit am leben  += Score       |     Score = X Zahl |      |
 
 ✍️ Heute am 16.1 habe ich... (50-100 Wörter)
 
