@@ -36,7 +36,7 @@ Fynn Huber
 |  Startmenü             |Konsole                     |  Start = y              |    Game startet            |          |
 |  Auto Steuerung          |     Game gestratet                 |     W,A,D           |      Auto nach vorne,links,rechts          |          |
 | reset           |       In hinderniss gefahren               |     nochmal spielen = y           |  Game startet              |          |
-|Score            | Game gestartet      | Game gestartet       | Zeit am leben  += Score       |     Score = X Zahl |      |
+|Score            | Game gestartet      |  Zeit am leben  += Score       |     Score = X Zahl |      |
 
 ✍️ Heute am 16.1 habe ich... (50-100 Wörter)
 
@@ -44,16 +44,17 @@ Fynn Huber
 
 ## 23.1.2024
 
-- [ ] Fünftes AP
-- [ ] ...
-- [ ] ...
-- [ ] Achtes AP
+- [ ] Hindernisse generieren
+- [ ] Hindernisse unendlich lange
+- [ ] Spiel bei berührung mit Hindernissen vorbei
+- [ ] Record Score wird gespeichert
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 5               |                      |                |                |          |
-| ...             |                      |                |                |          |
-| 8               |                      |                |                |          |
+| Hindernisse               |Erstellung der Hindernisse                       |     Game start           |   Hinderniss erscheint             |          |
+| Hindernisse unendlich            |  Game gestartet                |   Hindernisse entstehen             |  Game spielbar              |          |
+| Game Over               |  Auto berührt Hinderniss                    |  Auto berührt Hinderniss              |   Game Over             |          |
+|Personal best | Run vorbei | Score grösser als vorherig | new PB | |
 
 ✍️ Heute am 23.1 habe ich... (50-100 Wörter)
 
@@ -61,7 +62,7 @@ Fynn Huber
 
 ## 30.1.2024
 
-✍️ Heute am 23.1 habe ich... (50-100 Wörter)
+✍️ Heute am 30.1 habe ich... (50-100 Wörter)
 
 ## Reflexion
 
