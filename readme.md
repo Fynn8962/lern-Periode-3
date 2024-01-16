@@ -23,16 +23,16 @@ Fynn Huber
 
 ## 16.1 und 23.1.2024
 
-- [ ] Startmenu
-- [ ] Schwierigkeitsgrad auswahl
-- [ ] Einzelne Schwierigkeiten deffinieren
-- [ ] nochmal spielen möglich
+- [ x ] Startmenu
+- [x ] Schwierigkeitsgrad auswahl
+- [x ] Einzelne Schwierigkeiten deffinieren
+- [x ] nochmal spielen möglich
 
 | estfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | -------------- | -------------------- | -------------- | -------------- | -------- |
-|  Startmenü             |Konsole                     |  Start = y              |    Game startet            |          |
-|  Schwierigkeit auswahl        |     Konsole                 |     1,2,3,4           |      leicht oder Schwer          |          |
-|schwierigkeit deffinieren        |       Schwierigkeit ausgewählt             |    When schwierigkeit 2          |  Zeit zu ragieren = 0.5 Sek             |          |
+|  Startmenü             |Konsole                     |  Start = y              |    Game startet            |     x     |
+|  Schwierigkeit auswahl        |     Konsole                 |     1,2,3,4           |      leicht oder Schwer          |     x     |
+|schwierigkeit deffinieren        |       Schwierigkeit ausgewählt             |    When schwierigkeit 2          |  Zeit zu ragieren = 0.5 Sek             |     x     |
 |Nochmal spielen            | Run beendet     |  Nochmal spielen = y       |     Game startet |      |
 
 ✍️ Heute am 16.1 habe ich... (50-100 Wörter)
