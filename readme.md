@@ -36,6 +36,7 @@ Fynn Huber
 |Nochmal spielen            | Run beendet     |  Nochmal spielen = y       |     Game startet |      |
 
 ✍️ Heute am 16.1 habe ich... (50-100 Wörter)
+Anfangendas das Spiel zu progammieren und gemerkt, dass es einfacher als gedacht ist. Die Grundidee des Spielsch steht schon einigermassen, jedoh bin ich mit dem Design und den Details des Spiels noch nicht zufrieden. beim nächsten mal möchte ich probieren wie man in der Konsole ein schönens Gameoverlay machen kann damit es auch spass macht zu Spielen. Ausserdem ibt es noch ein Problem mit dem Code, den ich auch noch beheben muss.
 
 ☝️ Vergessen Sie nicht, bis zum 16.1 einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
