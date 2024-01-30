@@ -27,6 +27,7 @@ Fynn Huber
 ## 9.1.2024
 
 ✍️ Heute habe ich...
+
 Die Planung für mein Reaktionszeitspiel erstellt und die einzelnen Anforderungen definiert.
 
 
@@ -46,6 +47,7 @@ Die Planung für mein Reaktionszeitspiel erstellt und die einzelnen Anforderunge
 |Nochmal spielen            | Run beendet     |  Nochmal spielen = y       |     Game startet |      |
 
 ✍️ Heute am 16.1 habe ich...
+
 Ich habe angefangen, das Spiel zu programmieren und bemerkt, dass es einfacher ist als gedacht. Die Grundfunktion des Spieles steht schon einigermassen, jedoch bin ich mit dem Design und den Details des Spieles noch nicht zufrieden. Beim nächsten Mal möchte ich probieren, wie man in der Konsole ein schönes Gameoverlay machen kann, damit das Spiel auch Spass macht zu Spielen. Ausserdem gibt es noch ein Problem mit dem Code, das ich auch noch beheben muss.
 
 
@@ -65,6 +67,7 @@ Ich habe angefangen, das Spiel zu programmieren und bemerkt, dass es einfacher i
 |Personal best | Run vorbei |Reaktion kleiner als vorher | new PB | |
 
 ✍️ Heute am 23.1 habe ich...
+
 Ich habe die komplette Funktionalität meines Codes fertiggestellt und bin zufrieden mit der Umsetzung meiner Idee. Ich hatte anfangs Probleme mit dem Neustarten und erneuter Schwierigkeitsauswahl des Spieles, damit es die neue Schwierigkeit annimmt. Ausserdem war es schwierig, die Zeit auf die Millisekunde genau zu stoppen, dass auch das Endresultat stimmt. Doch dies konnte ich ganz einfach beheben, indem ich früh genug eine stopwatch.stop() gemacht habe.
 Leider habe ich nicht mehr geschafft, einen PB Score zu erstellen. Es wäre einfach gewesen ein PB Score für die einzelnen Spiel-Sessions zu machen, ich wollte jedoch einen PB Score der gespeichert wird und bei erneutem Spielstart immer noch aufrufbar wäre.
 
