@@ -42,19 +42,20 @@ Anfangendas das Spiel zu progammieren und gemerkt, dass es einfacher als gedacht
 
 ## 23.1.2024
 
-- [ ] erneute Schwierigkeitsauswahl
-- [ ] Reaktionszeit Messen
-- [ ] Overlay erstellen im Game 
+- [x ] erneute Schwierigkeitsauswahl
+- [ x] Reaktionszeit Messen
+- [ x] Overlay erstellen im Game 
 - [ ] Personel best Score
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| erneute Schwierigkeitsauswahl               |Game erneut spielen                  |         Schwierigkeit = 4       | neue Schwierigkeit = 4            |          |
-| Reaktionszeit Messen        | Run vorbei                |  Zeitspanne Zeichen bis Tastendruck              | Reaktionszeit            |          |
-| Overlay              | Game gestartet                 |  Zeichen das man drücken muss          |   Drücken Erfolgrecih || Unerfolgreich            |          |
+| erneute Schwierigkeitsauswahl               |Game erneut spielen                  |         Schwierigkeit = 4       | neue Schwierigkeit = 4            |     x     |
+| Reaktionszeit Messen        | Run vorbei                |  Zeitspanne Zeichen bis Tastendruck              | Reaktionszeit            |    x      |
+| Overlay              | Game gestartet                 |  Zeichen das man drücken muss          |   Drücken Erfolgrecih || Unerfolgreich            |    x      |
 |Personal best | Run vorbei |Reaktion kleiner als vorher | new PB | |
 
 ✍️ Heute am 23.1 habe ich... (50-100 Wörter)
+Ich habe die komplette Funktionallität meines Codes fertiggestellt und bin Zufrieden mit der Umsetzung meiner Idee. Ich hatte afangs Probleme mit dem Neustarten und erneuter Schwierigkeitsauswahl des Spieles, damit es die neue Schwierigkeit annimmt. Ausserdem War es schwierig die Zeit auf die Millisekunde genau zu stoppen das auch das Endresultat stimmt. Doch dies konnte ich ganz einfach beheben indem ich früh genug eine stopwatch.stop() gemacht habe.
 
 ☝️ Vergessen Sie nicht, bis zum 23.1 Ihren fixfertigen Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
