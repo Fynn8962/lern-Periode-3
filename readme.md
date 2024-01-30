@@ -77,8 +77,14 @@ Leider habe ich nicht mehr geschafft, einen PB Score zu erstellen. Es wäre einf
 
 ✍️ Heute am 30.1 habe ich...
 
+Ich habe meinen Code verschönert und mit richtig definierten Variabelnamen ausgestattet damit er besser leserlich ist. Ausserdem habe ich das Programm nochmal getestet um sicher zu gehen das ich keine Fehler mehr habe. Anschliessend habe ich den fertigen Code auf GitHub hochgeladen.
+
 ## Reflexion
 
 Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
 
+Beim Ideensuchen für ein Projekt wussete ich schon das ich eine Art Game Coden will. Da wir aber nicht so viel Zeit hatten habe ich mich für etwas simpleres entschieden dass ich am Schluss auch sicher fertig werde. Ich habe mich dann für ein Reaktionszeitspiel entschieden und die Anforderungen dafür definiert. Als ich begann zu Coden habe war alles sehr einfach bis auf die Thematik mit dem Zeit stoppen damit ich auch die Reaktionszeit angegeben  kann. Durch Googeln und viel rumprobieren habe ichs dann geschafft das die Zeit die ausgegeben wird auch wirklich auf die Millisekunde stimmt. Anschlissend habe ich noch daran gearbeitet dass das Game erneut gespielt werden kann und dass man auch immer wieder die Schwierigkeit erneut auswählen kann. Am Schluss habe ich den Code nochmal überarbeiter mit neuen Variabeln und schönerer Formatierung.
+
 Verfassen Sie zusätzlich einen kurzen Abschnitt, in welchem Sie über die Länge der Projekte reflektieren: Fanden Sie die 9-wöchtige LP2 oder die 4-wöchige LP3 angenehmer? Was bedeutet das für Ihre Planung der zukünftigen LP?
+
+Ich fand es sehr angenehm nur 4 Wochen Zeit zu haben da man sich dadurch nicht so ein grosses Projekt vorgenommen hat und somit auch nicht so in den Stress geraten ist. In den 9 Wöchigen LP's konnte ich  die Zeit nie gut einschätzen und fand es schwieriger zu Planen. Trotzdem hat eine Längere LP auch vorteile da man auch andere Sachen angehen kann als nur an seinem Projekt Coden. In der 9 Wöchigen LP hatte ich z.B auch noch viel Zeit an anderen Modulen zu arbeiten was eine grosser Vorteil war, den ich bei dieser LP nicht hatte.
