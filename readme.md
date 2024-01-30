@@ -56,6 +56,7 @@ Anfangendas das Spiel zu progammieren und gemerkt, dass es einfacher als gedacht
 
 ✍️ Heute am 23.1 habe ich... (50-100 Wörter)
 Ich habe die komplette Funktionallität meines Codes fertiggestellt und bin Zufrieden mit der Umsetzung meiner Idee. Ich hatte afangs Probleme mit dem Neustarten und erneuter Schwierigkeitsauswahl des Spieles, damit es die neue Schwierigkeit annimmt. Ausserdem War es schwierig die Zeit auf die Millisekunde genau zu stoppen das auch das Endresultat stimmt. Doch dies konnte ich ganz einfach beheben indem ich früh genug eine stopwatch.stop() gemacht habe.
+Leider habe ich nicht mehr geschafft einen PB-score zu erstellen, es währe einfach gewesen ein PB score für die einzelnen Spiel-Sessions zu machen, ich wollte jedoch einen PB der irgendwo gespeichert wird und bei erneutem Spielstart immernoch aufrufbar wäre. 
 
 ☝️ Vergessen Sie nicht, bis zum 23.1 Ihren fixfertigen Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
