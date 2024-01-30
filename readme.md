@@ -27,7 +27,7 @@ Fynn Huber
 ## 9.1.2024
 
 ✍️ Heute habe ich...
-   Die Planung für mein Reaktionszeitspiel erstellt und die einzelnen Anforderungen definiert.
+Die Planung für mein Reaktionszeitspiel erstellt und die einzelnen Anforderungen definiert.
 
 
 
