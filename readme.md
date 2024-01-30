@@ -51,7 +51,7 @@ Anfangendas das Spiel zu progammieren und gemerkt, dass es einfacher als gedacht
 | --------------- | -------------------- | -------------- | -------------- | -------- |
 | erneute Schwierigkeitsauswahl               |Game erneut spielen                  |         Schwierigkeit = 4       | neue Schwierigkeit = 4            |     x     |
 | Reaktionszeit Messen        | Run vorbei                |  Zeitspanne Zeichen bis Tastendruck              | Reaktionszeit            |    x      |
-| Overlay              | Game gestartet                 |  Zeichen das man drücken muss          |   Drücken Erfolgrecih || Unerfolgreich            |    x      |
+| Overlay              | Game gestartet                 |  Zeichen das man drücken muss          |   Drücken Erfolgrecih / Unerfolgreich            |    x      |
 |Personal best | Run vorbei |Reaktion kleiner als vorher | new PB | |
 
 ✍️ Heute am 23.1 habe ich... (50-100 Wörter)
